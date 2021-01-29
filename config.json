@@ -1,0 +1,8 @@
+{
+    "bottoken": "yourtokenhere",
+    "prefix" : ",",
+    "editorperms" : "ADMINISTRATOR", 
+    "responses" : {
+        "discord" : "Not configured! Please go to the config.json file and edit 'discord' under the responses!"
+    }
+}
